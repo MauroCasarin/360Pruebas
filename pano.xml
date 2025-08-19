@@ -7,7 +7,7 @@
     <preview strip="1" color="0x808080"/>
   </input>
   <view pannorth="0" fovmode="0">
-    <start fov="70" pan="0" projection="4" tilt="0"/>
+    <start fov="100" pan="-88.2433" projection="4" tilt="3.05698"/>
     <flyin fov="170" pan="0" projection="9" tilt="-90"/>
     <min fovpixel="2" pan="-180" tilt="-60.4977"/>
     <max fovstereographic="270" fov="120" pan="180" tilt="60.4977" fovfisheye="360"/>
@@ -16,6 +16,9 @@
   <hotspots height="20" wordwrap="1" width="180">
     <label height="20" background="1" borderalpha="1" borderradius="1" backgroundalpha="1" textalpha="1" border="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" width="180"/>
     <polystyle mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <polyhotspot target="_blank" title="" url=" javascript:alert(“Hola”);void(0);" description="" id="Poly01">
+      <polystring>-58.83/28.59|-58.55/2.95|-90.04/-25.36|-118.1/-0.05|-118.35/26.76</polystring>
+    </polyhotspot>
   </hotspots>
   <media/>
   <transition softedge="0" blendtime="1" enabled="1" zoomout="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomafterinfov="90"/>
