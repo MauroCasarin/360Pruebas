@@ -1,0 +1,1 @@
+javascript:alert(“Hola”);void(0);
