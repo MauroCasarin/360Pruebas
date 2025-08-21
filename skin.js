@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.13/18080
 // Filename: PRUE-1.ggsk
-// Generated 2025-08-21T09:41:49
+// Generated 2025-08-21T11:07:45
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_video_youtube', 2, false);
@@ -178,13 +178,13 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Button 2";
-		el.ggDx=110;
+		el.ggDx=99;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_button ";
 		el.ggType='button';
 		hs ='';
-		hs+='bottom : 8px;';
+		hs+='bottom : 5px;';
 		hs+='cursor : pointer;';
 		hs+='height : 52px;';
 		hs+='left : -10000px;';
